@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-I'm a software engineer working with [RStudio, Inc](http://www.rstudio.com).
+Hi Welcome to my Blog where I keep the thoughts. I'm a[RStudio, Inc](http://www.rstudio.com).
 I got my PhD from the Department of Statistics, Iowa State University. My
 [thesis](http://lib.dr.iastate.edu/etd/13518/) was _Dynamic
 [Graphics](http://cranvas.org) and [Reporting](/knitr) for Statistics_, advised
@@ -21,8 +21,13 @@ see beamer slides, and I yell at people who use `\textbf{}` to write
 `\title{}`. I know I cannot eat code, so I cook almost every day to stay
 away from my computer for two hours.
 
-这是谢益辉的个人主页。2013年底我从[Ames村办大学](http://www.iastate.edu)统计系毕业（终于解决了人生前30年里最大的FAQ：你怎么还没毕业？），目前就职于RStudio。我支持开源软件，喜欢折腾网站和代码，是一个高度自我驱动的人。打羽毛球爱勾对角，打乒乓球像太极，网球满场子捡球，篮球容易被撞飞，攀岩一次，腿软。宅，口重，嗜辣，屡教不改。智商中等偏下，对麻将和三国杀有不可逾越的认知障碍，实变函数课上曾被老师叫醒。少读书，只是偶尔网上乱翻帖子，对诗词楹联比较感兴趣，目前比较中意的一联是“千秋邈矣独留我 百战归来再读书”，最喜欢的一首词是：
+我是沈一宗。欢迎来到我的博客，记录我指尖思考的地方。
+鄙人好咖啡，爱电影，喜数码，非主流果粉，标准宅男一名。文青谈不上，嗜书成瘾，发现读的越多懂的越少。30而立，娶贤妻得贵子，2014年我携妻带子来到澳洲，迈入人生新的阶段。
 
-> 深情似海，问相逢初度，是何年纪？依约而今还记取，不是前生夙世。放学花前，题诗石上，春水园亭里。逢君一笑，人间无此欢喜。  
-> 无奈苍狗看云，红羊数劫，惘惘休提起。客气渐多真气少，汩没心灵何已。千古声名，百年担负，事事违初意。心头阁住，儿时那种情味。
+我向往自由自在的码农生活，沉迷阅读及思考。
+
+> 大江東去，浪淘盡、千古風流人物。故壘西邊人道是，三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑  
+> 遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間，檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一樽還酹江月。
+
+
 
